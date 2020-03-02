@@ -1,10 +1,11 @@
 // Code your solutions in this file
 
 function writeCards(namesArray, event){
+  let thankYouCards = []
   for (let i = 0; i < namesArray.length; i++){
-    console.log(`Thank you, ${nameArray[i]}, for the wonderful ${event} gift!`)
+    thankYouCards.push(`Thank you, ${nameArray[i]}, for the wonderful ${event} gift!`)
   }
-  
+  return thankYouCards
 }
 
 // writeCards(["Ada", "Brendan", "Ali"], "birthday");

@@ -8,4 +8,3 @@ function writeCards(namesArray, event){
   return thankYouCards
 }
 
-// writeCards(["Ada", "Brendan", "Ali"], "birthday");

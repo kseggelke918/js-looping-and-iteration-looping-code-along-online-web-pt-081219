@@ -7,4 +7,4 @@ function writeCards(names, eventName){
   
 }
 
-writeCards(["Ada", "Brendan", "Ali"], "birthday");
+// writeCards(["Ada", "Brendan", "Ali"], "birthday");

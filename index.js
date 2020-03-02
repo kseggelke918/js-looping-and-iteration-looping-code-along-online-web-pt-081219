@@ -14,5 +14,5 @@ function countDown(number){
     console.log(i);
     i -= 1;
   }
-  
+  console.log(i)
 }

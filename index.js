@@ -12,7 +12,7 @@ function countDown(number){
   i = number  
   while (i > 0 ){
     console.log(i);
-    i--;
+    i-=;
   }
   
 }
